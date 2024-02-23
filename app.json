@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "ProjetoSemNome",
+    "slug": "projeto-extensionista",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
